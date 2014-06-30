@@ -1,0 +1,80 @@
+html{
+	margin: 0;
+	width: 100%;
+	background: url("https://s3.amazonaws.com/ooomf-com-files/dHPUrXnHQeqfeuXCscUj_NZ14%20(391%20of%20589).jpg")no-repeat top center fixed;
+	  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+body{
+	margin: 0;
+}
+.topNav{
+	background: rgba(36, 255, 226, 0.5);
+	text-align: center;
+	width: 100%;
+	margin: 0;
+	box-sizing: border-box;
+	position: fixed;
+
+}
+
+.socialMedia {
+	list-style-type: none;
+	display: inline-block;
+	padding: 0 100px;
+}
+
+.primeInfo{
+	margin-top: 150px;
+	float: right;
+	color: rgba(0, 38, 255, 1);
+	background: rgba(36, 255, 226, 0.7);
+	margin-bottom: 200px;
+}
+.primeInfo > ul{
+	text-align: center;
+	list-style-type: none;
+	font-size: 30px;
+}
+
+.name{
+	font-size: 50px;
+	color: rgba(0, 38, 255, 1);
+}
+
+.mainBody{
+	clear: both;
+	font-size: 25px;
+	margin: 0 20% 50px 20%;
+	color: rgba(0, 38, 255, 1);
+	background: rgba(36, 255, 226, 0.7);
+	padding: 5px 20px 1px 20px;
+}
+
+.mainBody .centerText{
+	text-align: center;
+}
+
+.jobskillz{
+	text-align: center;
+	list-style-type: none;
+	background: rgba(36, 255, 226, 0.7);
+	padding: 0;
+	width: 40%;
+	float: left;
+	
+}
+.jobHeader1{
+	margin-left: 10%;
+	padding-bottom: 36px;
+}
+.jobHeader2{
+	margin-right: 10%
+}
+.socialMedia2 {
+	list-style-type: none;
+	display: inline-block;
+	padding: 0;
+}
